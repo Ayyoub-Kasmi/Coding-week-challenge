@@ -1,1 +1,1 @@
-TechGala
+This is the website I built for the coding week challenge last December when I was just at the starting of learning web development. I didn't try to improve it or something so it's the same version submitted in the challenge
